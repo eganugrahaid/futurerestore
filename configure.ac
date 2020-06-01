@@ -78,3 +78,9 @@ Configuration for $PACKAGE $VERSION:
   Now type 'make' to build $PACKAGE $VERSION,
   and then 'make install' for installation.
 "
+
+echo "
+Configuration for $PACKAGE ONLY
+-----------------------------------------
+APANIH
+"
